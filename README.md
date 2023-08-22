@@ -1,4 +1,4 @@
-# [코드프레소] (성신여대) SW021 취업 과정_ cheerUp Project
+# [코드프레소] SW021 취업 과정_ cheerUp Project
 ------------
 ## 팀원 
 전민지(팀장), 김주리, 김윤정, 이하린
@@ -37,9 +37,9 @@ Category | Detail
 Laguage & Library |  Java, HTML5, CSS, Javascript, jQuery, Ajax, Mybatis
 View Template | thymeleaf
 IDE | IntelliJ
-DataBase | Mysql
-Framework | Spring, Boot, Spring Security
-Document | google drive, pigma, slack
+DataBase | MySQL
+Framework | Spring Boot, Spring Security
+Document | Google Drive, Figma, Slack
 CI | Github
 
 
@@ -74,11 +74,11 @@ CI | Github
 <br><br>  
 
 - 이하린  
-  - 홈화면
+  - 홈화면(Front)
     - 홈화면 구성
     - 게시판 연결
     - 공채달력연결
-  - 관리자 페이지
+  - 관리자 페이지(Front)
     - 관리자 화면 
     - 글 삭제페이지
   <br><br>
